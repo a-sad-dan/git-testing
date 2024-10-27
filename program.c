@@ -7,10 +7,3 @@
 {
   printf("Hi Dad");
 }
-
-//this is so cool yo wtf
-
-\
-}:
-{}o?\
-"
